@@ -23,8 +23,8 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_project_page %}
-        <p class="view"></a>email: {{ site.email }} </a></p>
+        {% if site.email %}
+        <p class="view">Email: {{ site.email }}</p>
         {% endif %}
 
         {% if site.github.is_user_page %}
