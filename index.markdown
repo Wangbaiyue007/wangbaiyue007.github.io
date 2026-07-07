@@ -19,3 +19,4 @@ Started in the field of Robotics, I grew my research interests in control theory
 
 # Blogs
 * [Frankenstein, AI and Schizophrenia](./pages/blog-2026-7-1.md) (2026-7-1).
+* [Glenn Gould and his Cyberpunk Era](./pages/blog-2020-12-11.md) (2020-12-11).
